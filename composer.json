@@ -1,0 +1,16 @@
+{
+  "name": "radweb/pdfcrowd-php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robb Lewis",
+      "email": "me@therobb.com"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "classmap": ["pdfcrowd.php"]
+  }
+}

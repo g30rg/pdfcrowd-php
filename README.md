@@ -54,4 +54,7 @@ Other basic operations:
     // convert an HTML file
     $pdf = $client->convertFile('/path/to/local/file.html');
 
+## Credits
+
+- rmlewisuk for aiding the composer.json and filing this on packagist, his composer.json has been imported from https://github.com/Radweb/pdfcrowd-php to file the PR with upstream and use a fork via composer simultanously 
 
